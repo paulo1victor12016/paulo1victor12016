@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paulo Victor.
-- 👀 I’m interested in Programming, Data science, Artificial Intelligence and Cybersecurity.
+- 👀 I’m interested in Programming, Data science, Artificial Intelligence, Machine Learning and Cybersecurity.
 - 🌱 I’m currently learning Python, Flask and Django.
 - 💞️ I’m looking to collaborate on React Js, Angular Js, Vue Js and React-Native.
 - 📫 How to reach me: email->paulo1victor12016@gmail.com
