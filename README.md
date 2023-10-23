@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulo Victor.
-- 👀 I’m interested in Python, Javascript, React and React-Native.
-- 🌱 I’m currently learning Python, Flask and Django.
+- 👀 I’m interested in Web Development, Python, React and React-Native.
+- 🌱 I’m currently learning Python(Django).
 - 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me: email->paulo1victor12016@gmail.com
 
