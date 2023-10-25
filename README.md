@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Paulo Victor.
 - 👀 I’m interested in Web Development, Python, Data Science, Machine Learning and AI.
 - I have experience with PHP, Javascript, SQL, HTML and CSS.
-- i've used Mysql and SQL server databases in my web applications.
 - 🌱 I’m currently learning Python(Django).
 - 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me: email->paulo1victor12016@gmail.com
