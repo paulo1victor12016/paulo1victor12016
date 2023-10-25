@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paulo Victor.
-- 👀 I’m interested in Web Development, Python, React, React-Native, Node Js, Express Js.
+- 👀 I’m interested in Web Development(PHP, Javascript, SQL, HTML and CSS) and Python.
 - 🌱 I’m currently learning Python(Django).
 - 💞️ I’m looking to collaborate on Python.
 - 📫 How to reach me: email->paulo1victor12016@gmail.com
